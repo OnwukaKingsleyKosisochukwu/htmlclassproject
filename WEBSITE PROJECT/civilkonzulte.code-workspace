@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\soe204"
+		},
+		{
+			"path": "..\\..\\website images"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "soe204"
+	}
+}
